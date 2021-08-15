@@ -1,6 +1,6 @@
 ### AlphaFold Databases 
 
-There are eight reference databases where all of them are downloaded, verified and stored in `/opt/nesi/db/alphafold_db` . 
+There are eight reference databases (parameters where all of them are downloaded, verified and stored in `/opt/nesi/db/alphafold_db` . 
 
 ```bash
 /opt/nesi/db/alphafold_db/
